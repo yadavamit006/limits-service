@@ -20,3 +20,6 @@ Port: 8765
 
 7. Zipkin Distributed Tracing Server
 Port: 9411
+
+
+Local : http://localhost:8080/limits
